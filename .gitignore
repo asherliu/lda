@@ -1,0 +1,8 @@
+#Intermediate result
+###############
+
+*.others 
+*.theta 
+*.twords 
+*.tassign 
+*.phi

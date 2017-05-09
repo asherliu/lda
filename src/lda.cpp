@@ -22,6 +22,8 @@
  */
 
 #include "model.h"
+#include <stdio.h>
+#include <iostream>
 
 using namespace std;
 
